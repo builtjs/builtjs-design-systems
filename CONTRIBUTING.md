@@ -64,9 +64,9 @@ Once you're ready to submit your changes:
 git push origin [design-system-name]_[version]
 ```
 
-2. Open a pull request from your fork to the main repository:
+2. Open a pull request from your fork to the ```dev``` branch of the repository:
 
-- Base branch: ```main```
+- Base branch: ```dev```
 - Compare branch: ```[design-system-name]_[version]```
 
 Include the following information in your pull request description:

@@ -8,7 +8,7 @@ Each design system contains the following files and directories:
 - styles
     - ```index.css```
     - ```globals.css```
-- ```tailwind.config.js``` or ```tailwind.config.ts```
+- ```tailwind.config.js```
 
 To find a previous versions of a design system, please check this repository's branches.
 
