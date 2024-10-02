@@ -2,12 +2,6 @@
 
 Welcome to the Basic Design System. This design system provides a set of reusable styles. It doesn't include a component library.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Installation and usage](#installation)
-- [Contributing](#contributing)
-
 ## Overview
 
 This design system includes:
